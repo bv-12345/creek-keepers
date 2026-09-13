@@ -1,0 +1,1 @@
+export const species={producers:['Cattails','Algae'],herbivores:['Duck','Snail'],predators:['Heron']}; export const scenarios=[{name:'Sunny spring',light:8,water:8},{name:'Dry week',light:8,water:3},{name:'Cloudy rain',light:3,water:8}];
