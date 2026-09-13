@@ -1,0 +1,9 @@
+Creek Keepers age-9 ecosystem lesson submission
+
+Public preview: https://bv-12345.github.io/creek-keepers/
+Public source: https://github.com/bv-12345/creek-keepers
+Commit: 03913f6e137037ef2c8a6e2b7cb7a281f6186f07
+Attached complete source archive: age9-source.zip
+Archive SHA256: b016369bdfb252a87876c3d5b5931eed61d0b7a94e70c65091095751635e3d45
+
+The app includes habitat construction (two producers, two herbivores, predator and labelled energy arrows), three light/water prediction scenarios with deterministic one-step model, and unfamiliar dry-creek restoration. Model values are bounded 0–10 and explained in EDUCATOR_GUIDE.md. Test report records the actual Node model check, local HTTP 200 check, responsive/keyboard review, and limitations. No login, wallet, personal data, tracking, external runtime service, or child testing.

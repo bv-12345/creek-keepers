@@ -1,0 +1,23 @@
+[
+  {
+    "viewport": "360x900",
+    "browser": "140.0.7339.16",
+    "page_errors": [],
+    "external_requests": [],
+    "result": "pass"
+  },
+  {
+    "viewport": "768x900",
+    "browser": "140.0.7339.16",
+    "page_errors": [],
+    "external_requests": [],
+    "result": "pass"
+  },
+  {
+    "viewport": "1280x900",
+    "browser": "140.0.7339.16",
+    "page_errors": [],
+    "external_requests": [],
+    "result": "pass"
+  }
+]
